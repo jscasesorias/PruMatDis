@@ -1,2 +1,4 @@
 # PruMatDis
- Pruebas de GitHub para Matemásticas Discretas
+ Pruebas de GitHub para Matemáticas Discretas
+
+Pruebas del branch de JSC
